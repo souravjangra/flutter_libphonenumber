@@ -84,6 +84,20 @@ class CountryWithPhoneCode {
         phoneMaskFixedLineInternational = '+0 000-000-0000',
         countryName = 'United States';
 
+  /// US locale, useful for dummy values
+  const CountryWithPhoneCode.au()
+      : phoneCode = '61',
+        countryCode = 'AU',
+        exampleNumberMobileNational = '1 5555 0123',
+        exampleNumberFixedLineNational = '1 5555 0123',
+        phoneMaskMobileNational = '0 0000 0000',
+        phoneMaskFixedLineNational = '0 0000 0000',
+        exampleNumberMobileInternational = '+61 1 5555 0123',
+        exampleNumberFixedLineInternational = '+61 1 5555 0123',
+        phoneMaskMobileInternational = '+00 0 0000 0000',
+        phoneMaskFixedLineInternational = '+00 0 0000 0000',
+        countryName = 'Australia';
+
   /// Country locale code.
   /// ```
   /// GB
