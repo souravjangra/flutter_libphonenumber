@@ -88,14 +88,14 @@ class CountryWithPhoneCode {
   const CountryWithPhoneCode.au()
       : phoneCode = '61',
         countryCode = 'AU',
-        exampleNumberMobileNational = '1 5555 0123',
-        exampleNumberFixedLineNational = '1 5555 0123',
-        phoneMaskMobileNational = '0 0000 0000',
-        phoneMaskFixedLineNational = '0 0000 0000',
-        exampleNumberMobileInternational = '+61 1 5555 0123',
-        exampleNumberFixedLineInternational = '+61 1 5555 0123',
-        phoneMaskMobileInternational = '+00 0 0000 0000',
-        phoneMaskFixedLineInternational = '+00 0 0000 0000',
+        exampleNumberMobileNational = '155 550 123',
+        exampleNumberFixedLineNational = '155 550 123',
+        phoneMaskMobileNational = '000 000 000',
+        phoneMaskFixedLineNational = '000 000 000',
+        exampleNumberMobileInternational = '+61 155 550 123',
+        exampleNumberFixedLineInternational = '+61 155 550 123',
+        phoneMaskMobileInternational = '+00 000 000 000',
+        phoneMaskFixedLineInternational = '+00 000 000 000',
         countryName = 'Australia';
 
   /// NZ locale, useful for dummy values
