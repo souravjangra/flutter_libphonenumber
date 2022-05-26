@@ -106,10 +106,10 @@ class CountryWithPhoneCode {
         exampleNumberFixedLineNational = '021 337 34253',
         phoneMaskMobileNational = '000 000 00000',
         phoneMaskFixedLineNational = '000 000 00000',
-        exampleNumberMobileInternational = '+64 21 337 34253',
-        exampleNumberFixedLineInternational = '+64 21 337 34253',
-        phoneMaskMobileInternational = '+00 00 000 00000',
-        phoneMaskFixedLineInternational = '+00 00 000 00000',
+        exampleNumberMobileInternational = '+64 213 373 4253',
+        exampleNumberFixedLineInternational = '+64 213 373 4253',
+        phoneMaskMobileInternational = '+00 000 000 0000',
+        phoneMaskFixedLineInternational = '+00 000 000 0000',
         countryName = 'New Zealand';
 
   /// IN locale, useful for dummy values
